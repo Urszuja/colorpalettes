@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-//HO
+
 import { withStyles } from '@material-ui/core/styles';
 
 const styles = {
